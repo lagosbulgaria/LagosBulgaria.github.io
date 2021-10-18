@@ -1,0 +1,18 @@
+
+h3{
+    color: beige;
+}
+.gallery{
+    margin: 10px 0 50px;
+    width: auto;
+    width: 1000px;
+}
+.gallery img{
+    width: 300px;
+    padding: 5px;
+    transition: 1s;
+
+}
+.gallery img:hover{
+    transform:scale(1.1);
+}
